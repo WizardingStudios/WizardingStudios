@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WizardingStudios
-- 👀 I’m interested in ... Flutter - Unreal Engine
-- 🌱 I’m currently learning ... Flutter & Unreal Engine 4
+- 👀 I’m interested in ... Flutter & Unreal Engine
+- 🌱 I’m currently learning ... Flutter & Unreal Engine
 - 💞️ I’m looking to collaborate on ... Flutter & Unreal Engine
 - 📫 How to reach me ... email@wizardingstudios.com
 
